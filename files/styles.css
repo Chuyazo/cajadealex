@@ -1,0 +1,22 @@
+.banner{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.jt{
+    margin-top: 1rem;
+}
+
+.nab{
+    background-image: url(/imgs/NAci.jpg);
+}
+
+.nat{
+    color: white;
+}
+
+.card:hover{
+    background-color: rgba(228, 228, 228, 0.637);
+}
